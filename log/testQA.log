@@ -1,0 +1,460 @@
+2020-15-03 12:15:00   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:18:06   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:22:47   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:23:00   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:24:03   WARN [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:26:32   WARN [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:26:33   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-15-03 12:27:53   WARN [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:27:53   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-15-03 12:28:52   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:28:52   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-15-03 12:32:24   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:32:24   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-15-03 12:32:34   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:32:34   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-15-03 12:33:09   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:33:09   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-15-03 12:33:30   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:33:30   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-15-03 12:34:34   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:34:34   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-15-03 12:34:43   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:34:43   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-15-03 12:34:58   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:34:58   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-15-03 12:35:43   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:35:43   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-15-03 12:36:18   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:36:18   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-15-03 12:36:52   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:36:52   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-15-03 12:37:04   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:37:04   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-15-03 12:39:40   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:39:40   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-15-03 12:40:38   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:40:38   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-15-03 12:40:38  ERROR [com.viktor.Methods] : Triangle doesn't exist
+2020-15-03 12:41:44   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:41:44   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-15-03 12:41:44  ERROR [com.viktor.Methods] : Triangle doesn't exist
+2020-15-03 12:41:44  ERROR [com.viktor.Methods] : Triangle doesn't exist
+2020-15-03 12:42:56   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:42:56   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-15-03 12:42:56  ERROR [com.viktor.Methods] : Triangle doesn't exist
+2020-15-03 12:42:56  ERROR [com.viktor.Methods] : Triangle doesn't exist
+2020-15-03 12:42:56  ERROR [com.viktor.Methods] : Triangle doesn't exist
+2020-15-03 12:44:12   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:44:12   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-15-03 12:44:12  ERROR [com.viktor.Methods] : Triangle doesn't exist
+2020-15-03 12:44:12  ERROR [com.viktor.Methods] : Triangle doesn't exist
+2020-15-03 12:44:12  ERROR [com.viktor.Methods] : Triangle doesn't exist
+2020-15-03 12:44:34   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:44:34   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-15-03 12:44:34  ERROR [com.viktor.Methods] : Triangle doesn't exist
+2020-15-03 12:44:34  ERROR [com.viktor.Methods] : Triangle doesn't exist
+2020-15-03 12:44:45   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:44:45   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-15-03 12:44:45  ERROR [com.viktor.Methods] : Triangle doesn't exist
+2020-15-03 12:44:45  ERROR [com.viktor.Methods] : Triangle doesn't exist
+2020-15-03 12:44:45  ERROR [com.viktor.Methods] : Triangle doesn't exist
+2020-15-03 12:55:39   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:55:39   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-15-03 12:55:39  ERROR [com.viktor.Methods] : Triangle doesn't exist
+2020-15-03 12:55:39  ERROR [com.viktor.Methods] : Triangle doesn't exist
+2020-15-03 12:55:39  ERROR [com.viktor.Methods] : Triangle doesn't exist
+2020-15-03 12:55:53   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:55:53   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-15-03 12:55:53  ERROR [com.viktor.Methods] : Triangle doesn't exist
+2020-15-03 12:55:53  ERROR [com.viktor.Methods] : Triangle doesn't exist
+2020-15-03 12:56:23   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:56:23   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-15-03 12:56:23  ERROR [com.viktor.Methods] : Triangle doesn't exist
+2020-15-03 12:56:23  ERROR [com.viktor.Methods] : Triangle doesn't exist
+2020-15-03 12:56:34   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 12:56:34   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-15-03 12:56:34  ERROR [com.viktor.Methods] : Triangle doesn't exist
+2020-15-03 12:56:34  ERROR [com.viktor.Methods] : Triangle doesn't exist
+2020-15-03 13:04:00   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 13:04:00   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-15-03 13:04:00  ERROR [com.viktor.Methods] : Triangle doesn't exist
+2020-15-03 13:04:00  ERROR [com.viktor.Methods] : Triangle doesn't exist
+2020-15-03 13:37:17   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-15-03 13:37:17   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-15-03 13:37:17  ERROR [com.viktor.Methods] : Triangle doesn't exist
+2020-15-03 13:37:17  ERROR [com.viktor.Methods] : Triangle doesn't exist
+2020-18-03 19:12:56   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-18-03 19:12:56   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-18-03 19:12:56   INFO [com.viktor.Methods] : Triangle exists
+2020-18-03 19:13:18   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-18-03 19:13:18   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-18-03 19:13:18   INFO [com.viktor.Methods] : Triangle exists
+2020-18-03 19:13:45   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-18-03 19:13:45   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-18-03 19:13:45   INFO [com.viktor.Methods] : Triangle exists
+2020-18-03 19:13:45   INFO [com.viktor.Methods] : Triangle exists
+2020-18-03 19:14:12   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-18-03 19:14:12   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-18-03 19:14:12   INFO [com.viktor.Methods] : Triangle exists
+2020-18-03 19:14:12   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:13:55   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 13:13:55   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 13:13:55   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:13:55   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:14:22   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 13:14:22   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 13:14:22   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:14:22   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:15:48   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 13:15:48   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 13:15:48   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:15:48   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:16:26   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 13:16:26   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 13:16:26   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:16:26   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:16:53   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 13:16:53   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 13:16:53   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:16:53   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:18:00   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 13:18:00   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 13:18:00   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:18:00   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:18:18   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 13:18:18   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 13:18:18   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:18:18   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:18:45   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 13:18:45   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 13:18:45   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:18:45   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:19:12   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 13:19:12   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 13:19:12   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:19:12   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:19:45   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 13:19:45   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 13:19:45   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:19:45   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:20:24   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 13:20:24   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 13:20:24   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:20:24   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:21:54   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 13:21:54   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 13:21:54   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:21:54   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:22:39   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 13:22:39   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 13:22:39   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:22:39   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:22:58   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 13:22:58   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 13:22:58   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:22:58   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:23:53   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 13:23:53   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 13:23:53   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:23:53   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:24:05   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 13:24:05   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 13:24:05   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:24:05   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:25:42   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 13:25:42   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 13:25:42   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:25:42   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:25:45   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 13:25:45   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 13:25:45   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:25:45   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:26:40   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 13:26:40   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 13:26:40   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 13:26:40   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 14:42:22   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 14:42:22   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 14:42:22   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 14:42:22   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 14:43:37   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 14:43:37   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 14:43:37   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 14:43:37   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 18:08:24   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 18:08:24   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 18:08:24   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 18:08:24   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 18:10:23   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 18:10:23   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 18:10:23   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 18:10:23   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 18:10:41   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 18:10:41   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 18:10:41   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 18:10:41   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 18:13:21   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 18:13:21   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 18:13:21   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 18:13:21   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 19:06:54   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 19:06:54   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 19:06:54   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 19:06:54   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 19:09:36   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 19:09:36   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 19:09:36   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 19:09:36   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 19:09:36   INFO [Triangle] : Triangle square calculated succesfully
+2020-19-03 19:16:35   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 19:16:35   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 19:16:35   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 19:16:35   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 19:16:35   INFO [Shape] : Triangle square calculated succesfully
+2020-19-03 19:17:01   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 19:17:01   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 19:17:01   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 19:17:01   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 19:17:01   INFO [Shape] : Triangle square calculated succesfully
+2020-19-03 19:17:52   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 19:17:52   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 19:17:52   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 19:17:52   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 19:17:52   INFO [Shape] : Triangle square calculated succesfully
+2020-19-03 19:18:08   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-19-03 19:18:08   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-19-03 19:18:08   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 19:18:08   INFO [com.viktor.Methods] : Triangle exists
+2020-19-03 19:18:08   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 08:22:16   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 08:22:16   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 08:22:16   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:22:16   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:22:16   INFO [Shape] : Triangle exists
+2020-20-03 08:22:16   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 08:23:21   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 08:23:21   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 08:23:21   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:23:21   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:23:21   INFO [Shape] : Triangle exists
+2020-20-03 08:23:21   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 08:23:30   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 08:23:30   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 08:23:30   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:23:30   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:23:30   INFO [Shape] : Triangle exists
+2020-20-03 08:23:30   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 08:23:45   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 08:23:45   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 08:23:45   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:23:45   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:23:45   INFO [Shape] : Triangle exists
+2020-20-03 08:23:45   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 08:24:02   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 08:24:02   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 08:24:02   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:24:02   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:24:02   INFO [Shape] : Triangle exists
+2020-20-03 08:24:02   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 08:24:28   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 08:24:28   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 08:24:28   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:24:28   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:24:28   INFO [Shape] : Triangle exists
+2020-20-03 08:24:28   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 08:26:25   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 08:26:25   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 08:26:25   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:26:25   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:26:25   INFO [Shape] : Triangle exists
+2020-20-03 08:26:25   INFO [Shape] : Triangle exists
+2020-20-03 08:26:25   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 08:26:44   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 08:26:44   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 08:26:44   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:26:44   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:26:44   INFO [Shape] : Triangle exists
+2020-20-03 08:26:44   INFO [Shape] : Triangle exists
+2020-20-03 08:26:44   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 08:26:57   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 08:26:57   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 08:26:57   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:26:57   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:26:57   INFO [Shape] : Triangle exists
+2020-20-03 08:26:57   INFO [Shape] : Triangle exists
+2020-20-03 08:26:57   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 08:27:15   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 08:27:15   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 08:27:15   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:27:15   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:29:56   INFO [Shape] : Triangle exists
+2020-20-03 08:29:56   INFO [Shape] : Triangle exists
+2020-20-03 08:29:56   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 08:29:59   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 08:29:59   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 08:29:59   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:29:59   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:29:59  ERROR [Shape] : Triangle doesn't exist
+2020-20-03 08:29:59   INFO [Shape] : Triangle exists
+2020-20-03 08:29:59   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 08:32:07   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 08:32:07   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 08:32:07   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:32:07   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:32:07  ERROR [Shape] : Triangle doesn't exist
+2020-20-03 08:32:07   INFO [Shape] : Triangle exists
+2020-20-03 08:32:07   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 08:32:14   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 08:32:14   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 08:32:14   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:32:14   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:32:14   INFO [Shape] : Triangle exists
+2020-20-03 08:32:14   INFO [Shape] : Triangle exists
+2020-20-03 08:32:14   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 08:36:08   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 08:36:08   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 08:36:08   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:36:08   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:36:08   INFO [Shape] : Triangle exists
+2020-20-03 08:36:08   INFO [Shape] : Triangle exists
+2020-20-03 08:36:08   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 08:36:17   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 08:36:17   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 08:36:17   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:36:17   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:36:17   INFO [Shape] : Triangle exists
+2020-20-03 08:36:17   INFO [Shape] : Triangle exists
+2020-20-03 08:36:17   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 08:37:15   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 08:37:15   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 08:37:15   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:37:15   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:37:15   INFO [Shape] : Triangle exists
+2020-20-03 08:37:15   INFO [Shape] : Triangle exists
+2020-20-03 08:37:15   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 08:37:54   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 08:37:54   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 08:37:54   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:37:54   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 08:37:54   INFO [Shape] : Triangle exists
+2020-20-03 08:37:54   INFO [Shape] : Triangle exists
+2020-20-03 08:37:54   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 09:06:28   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 09:06:28   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 09:06:28   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 09:06:28   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 09:06:28   INFO [Shape] : Triangle exists
+2020-20-03 09:06:28   INFO [Shape] : Triangle exists
+2020-20-03 09:06:28   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 09:06:39   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 09:06:39   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 09:06:39   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 09:06:39   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 09:06:39   INFO [Shape] : Triangle exists
+2020-20-03 09:06:39   INFO [Shape] : Triangle exists
+2020-20-03 09:06:51   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 09:06:53   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 09:06:53   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 09:06:53   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 09:06:53   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 09:07:14   INFO [Shape] : Triangle exists
+2020-20-03 09:07:14   INFO [Shape] : Triangle exists
+2020-20-03 09:07:14   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 09:07:49   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 09:07:49   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 09:07:49   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 09:07:49   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 09:07:49  ERROR [Shape] : Triangle doesn't exist
+2020-20-03 09:07:49   INFO [Shape] : Triangle exists
+2020-20-03 09:07:49   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 09:08:35   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 09:08:35   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 09:08:35   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 09:08:35   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 09:08:35  ERROR [Shape] : Triangle doesn't exist
+2020-20-03 09:08:35   INFO [Shape] : Triangle exists
+2020-20-03 09:08:35   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 09:08:42   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 09:08:42   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 09:08:42   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 09:08:42   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 09:08:42   INFO [Shape] : Triangle exists
+2020-20-03 09:08:42   INFO [Shape] : Triangle exists
+2020-20-03 09:08:42   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 09:08:50   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 09:08:50   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 09:08:50   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 09:08:50   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 09:08:50  ERROR [Shape] : Triangle doesn't exist
+2020-20-03 09:08:50   INFO [Shape] : Triangle exists
+2020-20-03 09:08:50   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 12:09:06   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 12:09:06   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 12:09:06   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 12:09:06   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 12:09:06  ERROR [Shape] : Triangle doesn't exist
+2020-20-03 12:09:06   INFO [Shape] : Triangle exists
+2020-20-03 12:09:06   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 12:09:19   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 12:09:19   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 12:09:19   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 12:09:19   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 12:09:19   INFO [Shape] : Triangle exists
+2020-20-03 12:09:19   INFO [Shape] : Triangle exists
+2020-20-03 12:09:19   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 12:20:49   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 12:20:49   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 12:20:49   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 12:20:49   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 12:20:49   INFO [Shape] : Triangle exists
+2020-20-03 12:20:49   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 12:20:49   INFO [Shape] : Triangle exists
+2020-20-03 12:20:49   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 12:21:05   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 12:21:05   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 12:21:05   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 12:21:05   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 12:21:05   INFO [Shape] : Triangle exists
+2020-20-03 12:21:05   INFO [Shape] : Triangle square calculated succesfully
+2020-20-03 12:21:05   INFO [Shape] : Rectangular exists
+2020-20-03 12:21:05   INFO [Shape] : Rectangular square calculated succesfully
+2020-20-03 12:28:32   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 12:28:32   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 12:28:32   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 12:28:32   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 12:28:32   INFO [Shape] : Triangle exists
+2020-20-03 12:28:32   INFO [Shape] : Triangle's square calculated succesfully
+2020-20-03 12:28:32   INFO [Shape] : Rectangular exists
+2020-20-03 12:28:32   INFO [Shape] : Rectangular square calculated succesfully
+2020-20-03 12:29:27   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-20-03 12:29:27   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-20-03 12:29:27   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 12:29:27   INFO [com.viktor.Methods] : Triangle exists
+2020-20-03 12:29:27   INFO [Shape] : Triangle exists
+2020-20-03 12:29:27   INFO [Shape] : Triangle's square calculated succesfully
+2020-20-03 12:29:27   INFO [Shape] : Rectangular exists
+2020-20-03 12:29:27   INFO [Shape] : Rectangular's square calculated succesfully
+2020-21-03 09:44:25   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-21-03 09:44:25   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-21-03 09:44:25   INFO [com.viktor.Methods] : Triangle exists
+2020-21-03 09:44:25   INFO [com.viktor.Methods] : Triangle exists
+2020-21-03 09:44:25  ERROR [Shape] : Triangle doesn't exist
+2020-21-03 09:44:25   INFO [Shape] : Rectangular exists
+2020-21-03 09:44:25   INFO [Shape] : Rectangular's square calculated succesfully
+2020-21-03 09:44:59  ERROR [Shape] : Triangle doesn't exist
+2020-21-03 09:45:24   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-21-03 09:45:24   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-21-03 09:45:24   INFO [com.viktor.Methods] : Triangle exists
+2020-21-03 09:45:24   INFO [com.viktor.Methods] : Triangle exists
+2020-21-03 09:45:24   INFO [Shape] : Triangle exists
+2020-21-03 09:45:24   INFO [Shape] : Triangle's square calculated succesfully
+2020-21-03 09:45:24   INFO [Shape] : Rectangular exists
+2020-21-03 09:45:24   INFO [Shape] : Rectangular's square calculated succesfully
+2020-21-03 09:56:26   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-21-03 09:56:26   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-21-03 09:56:26   INFO [com.viktor.Methods] : Triangle exists
+2020-21-03 09:56:26   INFO [com.viktor.Methods] : Triangle exists
+2020-21-03 09:57:09   INFO [com.viktor.Methods] : Расстояние между точками было посчитано
+2020-21-03 09:57:09   INFO [com.viktor.Methods] : Индекс массы тела был посчитан
+2020-21-03 09:57:09   INFO [com.viktor.Methods] : Triangle exists
